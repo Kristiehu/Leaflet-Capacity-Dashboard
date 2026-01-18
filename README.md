@@ -7,17 +7,17 @@ Includes additional dashboards for device capacity reporting and device informat
 
 ## 🌍 Live Applications
 
-- **[NPOP Heatmap](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/index.html)**  
+- **[NPOP Heatmap](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/index.html)**  
   Explore clustered markers, heatmaps, and FSA overlays.  
-  [![NPOP Map Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Npop_heatmap_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/index.html)
+  [![NPOP Map Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/Npop_heatmap_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/index.html)
 
-- **[Device Capacity Reporting Dashboard](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/capacityReport.html)**  
+- **[Device Capacity Reporting Dashboard](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/capacityReport.html)**  
   Visualize port and capacity usage across devices.  
-  [![Capacity Report Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Port_capacity_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/capacityReport.html)
+  [![Capacity Report Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/Port_capacity_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/capacityReport.html)
 
-- **[Device Info Tracker](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/devices_only.html)**  
+- **[Device Info Tracker](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/devices_only.html)**  
   Browse and search detailed device information.  
-  [![Device Info Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Npop_devices_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/devices_only.html)
+  [![Device Info Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/main/Npop_devices_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/devices_only.html)
 
 ---
 
