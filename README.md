@@ -9,15 +9,15 @@ Includes additional dashboards for device capacity reporting and device informat
 
 - **[NPOP Heatmap](https://kristiehu.github.io/Device-Capacity-Dashboard/main/index.html)**  
   Explore clustered markers, heatmaps, and FSA overlays.  
-  [![NPOP Map Preview](https://raw.githubusercontent.com/kristiehu/Leaflet-Npop-Map/main/Npop_heatmap_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/index.html)
+  [![NPOP Map Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Npop_heatmap_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/index.html)
 
 - **[Device Capacity Reporting Dashboard](https://kristiehu.github.io/Device-Capacity-Dashboard/main/capacityReport.html)**  
   Visualize port and capacity usage across devices.  
-  [![Capacity Report Preview](https://raw.githubusercontent.com/kristiehu/Leaflet-Npop-Map/main/Port_capacity_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/capacityReport.html)
+  [![Capacity Report Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Port_capacity_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/capacityReport.html)
 
 - **[Device Info Tracker](https://kristiehu.github.io/Device-Capacity-Dashboard/main/devices_only.html)**  
   Browse and search detailed device information.  
-  [![Device Info Preview](https://raw.githubusercontent.com/kristiehu/Leaflet-Npop-Map/main/Npop_devices_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/devices_only.html)
+  [![Device Info Preview](https://github.com/Kristiehu/Leaflet-Capacity-Dashboard/blob/main/Npop_devices_preview.png)](https://kristiehu.github.io/Leaflet-Npop-Map/main/devices_only.html)
 
 ---
 
